@@ -33,7 +33,7 @@ module.exports = {
     extend: {
       colors: {
         primary: "#00BAFC",
-        own_gray: "#F5F6FA",
+        footer: "#191919",
         gray_light: "#B2C2DF",
         dark_gray: "#667281",
         light_blue: "#70AEFD",
