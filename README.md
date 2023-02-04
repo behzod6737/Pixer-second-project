@@ -1,1 +1,1 @@
-test project for learning taolwind
+test project for learning tailwind
